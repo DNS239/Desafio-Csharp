@@ -1,0 +1,15 @@
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\bin\Debug\net8.0\Desafio1.exe
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\bin\Debug\net8.0\Desafio1.deps.json
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\bin\Debug\net8.0\Desafio1.runtimeconfig.json
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\bin\Debug\net8.0\Desafio1.dll
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\bin\Debug\net8.0\Desafio1.pdb
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.AssemblyInfoInputs.cache
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.AssemblyInfo.cs
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.sourcelink.json
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.dll
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\refint\Desafio1.dll
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.pdb
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\Desafio1.genruntimeconfig.cache
+C:\Users\Dns\Documents\GitHub\Desafio-Csharp\Desafio1\obj\Debug\net8.0\ref\Desafio1.dll
